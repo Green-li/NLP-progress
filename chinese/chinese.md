@@ -30,5 +30,4 @@ The [MSRA](https://www.aclweb.org/anthology/W06-0115) is a Simplified Chinese ch
 | ------------- | :-----:| --- | --- |
 | Lattice LSTM (Zhang et al., 2018) | 93.18 | [Chinese NER Using Lattice LSTM](https://arxiv.org/abs/1805.02023) | [LatticeLSTM](https://github.com/jiesutd/LatticeLSTM) |
 | BiLSTM-CRF with Chinese radical features (Dong et al., 2016) | 90.95 | [Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_20) | |
-| CRF (Chen et al., 2006) | 86.2 | [Chinese Named Entity Recognition with Conditional Probabilistic
-Models ](https://www.aclweb.org/anthology/W06-0130) | |
+| CRF (Chen et al., 2006) | 86.2 | [Chinese Named Entity Recognition with Conditional Probabilistic Models](https://www.aclweb.org/anthology/W06-0130) | |
